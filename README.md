@@ -21,7 +21,7 @@ Python 3.9+ e SQL (SQLite). Não há dependências externas.
 
 ## Como executar localmente
 
-1. Clone este repositório: `git clone [link]`
+1. Clone este repositório: `git clone https://github.com/gilidia/fluxo-de-caixa.git`
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Execute a aplicação: `python main.py`
 
